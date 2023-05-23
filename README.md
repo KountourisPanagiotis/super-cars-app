@@ -1,5 +1,5 @@
 # super-cars-app 🚙
-## Athens University of Economics and Business ([AUEB](https://aueb.gr/))
+## Athens University of Economics and Business ([AUEB](https://aueb.gr/)) 🏫 👨‍🎓
 A [Coding Factory](https://codingfactory.aueb.gr/) @ [AUEB](https://aueb.gr/) Android Project. Chapter 4 Layouts : Login Page
 
 ## Project info
