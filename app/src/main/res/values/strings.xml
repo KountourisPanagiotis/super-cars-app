@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SuperCarsApp</string>
+    <string name="superCars">Super Cars</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgotPassword">Forgot my Password</string>
+    <string name="alreadyHaveAccount">Dont have already an Account?</string>
+    <string name="signup">Signup here</string>
+    <string name="sallyCar">Picture of car Sally from Cars 3</string>
+
+</resources>

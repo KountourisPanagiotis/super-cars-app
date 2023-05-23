@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="loginBtnBackgroundClr">#bb86fc</color>
+    <color name="loginBtnTextClr">#5803e4</color>
+    <color name="forgotPassClr">#5803e4</color>
+    <color name="SignUpClr">#5803e4</color>
+</resources>
